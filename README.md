@@ -1,5 +1,6 @@
-                                                                          ### Hi there 👋
+<h3 align="center"> Hi, I'm Shrikrishna 👋</h3>
 
+I'm a Graduate Student pursuing a Master of Science in Computer Software Engineering. I'm immensely passionate about Software Engineering & Development. In addition, I take up anything and everything that I find exciting and pursue relentlessly. I'm a Javascript fan, but I dabble in python. That's a lie. I'm a fan of both. You can find me scrolling through my Twitter feed during my free time. 
 
 
 <!--
