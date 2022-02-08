@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Shrikrishna 👋</h3>
+<h3 align="center"> 👋 Hi, I'm Shrikrishna.</h3>
 
 I'm a Graduate Student pursuing Master of Science in Computer Software Engineering. I'm immensely passionate about Software Engineering & Development. In addition, I take up anything and everything that I find exciting and pursue relentlessly. I'm a JavaScript fan, but I dabble in Python. That's a lie. I'm a fan of both. You can find me scrolling through my Twitter feed during my free time. 
 
