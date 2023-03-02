@@ -4,7 +4,7 @@ Greetings, fellow beings of the internet! I am a Grad Student and a full-fledged
 
 When I'm not busy coding, I can be found scrolling through Twitter, following all the latest and greatest software engineering memes and trends. Some may say I have a problem, but I say, "Twitter feeds my soul."
 
-I also havea habit of taking on more projects than I can handle, but let's be real – who needs sleep when you can have endless cups of coffee and a steady stream of challenges?
+I also have a habit of taking on more projects than I can handle, but let's be real – who needs sleep when you can have endless cups of coffee and a steady stream of challenges?
 
 <!--
 **falcon-head/falcon-head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
